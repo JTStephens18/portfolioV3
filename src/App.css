@@ -12,8 +12,8 @@
   transform: translate(-50%, -50%);
   display: flex;
   z-index: -1;
-  height: 500px;
-  width: 500px;
+  height: 90%;
+  width: 90%;
   margin: 0px;
   padding: 0px;
 }

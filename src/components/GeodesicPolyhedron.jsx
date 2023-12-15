@@ -243,6 +243,8 @@ const GeodesicPolyhedronComponent = ({
       materials
     );
 
+    // icosahedronGeometryMesh.position.set(-4, 0.5, 0.5);
+
     return (
       <group>
         <primitive object={icosahedronGeometryMesh} ref={meshRef} />
